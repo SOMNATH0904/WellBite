@@ -1,5 +1,5 @@
 
-# MealMate
+# WellBite 
 
 This innovative Tiffin service application offers a daily delivery of wholesome meals right to your doorstep. Registered customers can seamlessly browse our menu, place orders, and conveniently settle payments through either Cash on Delivery (COD) or various online payment methods. Additionally, our platform provides real-time order tracking, ensuring customers stay informed about their meal's status, with regular updates delivered to their email addresses for enhanced transparency and satisfaction.
 

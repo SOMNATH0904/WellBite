@@ -1866,7 +1866,7 @@ if (aboutUs) {
       var typewriter = new (typewriter_effect_dist_core__WEBPACK_IMPORTED_MODULE_3___default())(descriptionText, {
         loop: false
       });
-      typewriter.typeString('Introducing <b class="companyDesriptionBrand">MealMate</b> ,').changeDelay(2).pauseFor(1000).typeString(' delivering, healthy, and delicious <b class="boldBig">homemade like meals</b> straight to your doorstep. ').typeString('With a variety of meal options catering to different dietary needs and preferences, our menu is updated regularly for a <b class="boldBig"> new experience </b> every time. ').pauseFor(1000).typeString('Subscribe via our easy-to-use online ordering system, and our friendly and reliable delivery team will ensure your tiffin box <b class="boldBig">always arrives on time</b>. ').pauseFor(1000).typeString('Enjoy the convenience and <b class="boldBig">affordability</b> of homemade meals without the stress. Try us out today and savor the joy of delicious, healthy food delivered to you. ').pauseFor(1000).typeString('Enjoy your happy meal my friend with <b class="companyDesriptionBrand">MealMate</b> 😊').pauseFor(1000).start();
+      typewriter.typeString('Introducing <b class="companyDesriptionBrand">WellBite </b> ,').changeDelay(2).pauseFor(1000).typeString(' delivering, healthy, and delicious <b class="boldBig">homemade like meals</b> straight to your doorstep. ').typeString('With a variety of meal options catering to different dietary needs and preferences, our menu is updated regularly for a <b class="boldBig"> new experience </b> every time. ').pauseFor(1000).typeString('Subscribe via our easy-to-use online ordering system, and our friendly and reliable delivery team will ensure your tiffin box <b class="boldBig">always arrives on time</b>. ').pauseFor(1000).typeString('Enjoy the convenience and <b class="boldBig">affordability</b> of homemade meals without the stress. Try us out today and savor the joy of delicious, healthy food delivered to you. ').pauseFor(1000).typeString('Enjoy your happy meal my friend with <b class="companyDesriptionBrand">WellBite </b> 😊').pauseFor(1000).start();
       observer.unobserve(entry.target);
     }
   };
@@ -34150,7 +34150,7 @@ process.umask = function() { return 0; };
 /******/ 			return __webpack_require__.O(result);
 /******/ 		}
 /******/ 		
-/******/ 		var chunkLoadingGlobal = self["webpackChunkmealmate"] = self["webpackChunkmealmate"] || [];
+/******/ 		var chunkLoadingGlobal = self["webpackChunkWellBite "] = self["webpackChunkWellBite "] || [];
 /******/ 		chunkLoadingGlobal.forEach(webpackJsonpCallback.bind(null, 0));
 /******/ 		chunkLoadingGlobal.push = webpackJsonpCallback.bind(null, chunkLoadingGlobal.push.bind(chunkLoadingGlobal));
 /******/ 	})();

@@ -7,7 +7,6 @@ const moment= require('moment'); // This JS library is used to format date and t
 const User= require('../../../models/userModel');
 const emailLib= require('../../../../email');
 
-
 // Create an instance of Razorpay
 const razorPayInstance = new Razorpay({
 	key_id: process.env.RAZORPAY_KEY_ID,

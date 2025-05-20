@@ -55,7 +55,7 @@ if (aboutUs) { // we are surely on home page
             });
 
 
-            typewriter.typeString('Introducing <b class="companyDesriptionBrand">MealMate</b> ,').changeDelay(2)
+            typewriter.typeString('Introducing <b class="companyDesriptionBrand">WellBite </b> ,').changeDelay(2)
                 .pauseFor(1000)
                 .typeString(' delivering, healthy, and delicious <b class="boldBig">homemade like meals</b> straight to your doorstep. ')
                 .typeString('With a variety of meal options catering to different dietary needs and preferences, our menu is updated regularly for a <b class="boldBig"> new experience </b> every time. ')
@@ -64,7 +64,7 @@ if (aboutUs) { // we are surely on home page
                 .pauseFor(1000)
                 .typeString('Enjoy the convenience and <b class="boldBig">affordability</b> of homemade meals without the stress. Try us out today and savor the joy of delicious, healthy food delivered to you. ')
                 .pauseFor(1000)
-                .typeString('Enjoy your happy meal my friend with <b class="companyDesriptionBrand">MealMate</b> 😊')
+                .typeString('Enjoy your happy meal my friend with <b class="companyDesriptionBrand">WellBite </b> 😊')
                 .pauseFor(1000)
                 .start();
 

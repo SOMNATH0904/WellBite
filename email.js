@@ -100,7 +100,7 @@ module.exports= class Email{
 
     // Now with above template we can send mail for multiple purposes like 'welcome' email for sign up. OR 'password' reset email etc
     async sendWelcome(){ // this will send welcome mail. Now we need link this to 'authController.signup' (see signup)
-        await this.send('welcomeEmail', 'Welcome to MealMate family!🙏');
+        await this.send('welcomeEmail', 'Welcome to WellBite  family!🙏');
     }
 
     async sendPasswordReset(){

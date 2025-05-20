@@ -1,7 +1,8 @@
 const mongoose = require('mongoose');
 
 const dotenv= require('dotenv');
-dotenv.config({ path: './config.env'});
+require('dotenv').config(); // 👈 This must come before anything uses process.env
+
 
 const express = require('express');
 const app = express();
